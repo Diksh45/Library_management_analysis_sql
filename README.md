@@ -13,6 +13,14 @@ This project demonstrates the design and analysis of a Library Management System
 
 ---
 
+## Project Structure
+- ** Database setup
+![ERD](erd-lib.png)
+
+- **Database Creation**: Created a database named `library_db`.
+
+- **Table Creation**: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
+
 ## Tools Used
 - SQL (PostgreSQL)
 - Database Design
