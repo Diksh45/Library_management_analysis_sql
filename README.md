@@ -14,7 +14,7 @@ This project demonstrates the design and analysis of a Library Management System
 ---
 
 ## Project Structure
-- **Database setup
+- **Database setup**
 ![ERD](erd-lib.png)
 
 - **Database Creation**: Created a database named `library_db`.
